@@ -1,0 +1,23 @@
+{
+  "name": "stimulus-autosize",
+  "version": "0.1.0",
+  "description": "Stimulus-Autosize",
+  "main": "stimulus-autosize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raicheff/stimulus-autosize.git"
+  },
+  "keywords": [
+    "stimulus",
+    "autosize"
+  ],
+  "author": "Boris Raicheff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raicheff/stimulus-autosize/issues"
+  },
+  "homepage": "https://github.com/raicheff/stimulus-autosize#readme"
+}
