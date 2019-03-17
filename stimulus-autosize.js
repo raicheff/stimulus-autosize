@@ -11,6 +11,9 @@ import autosize from "autosize";
 import { Controller } from "stimulus";
 
 
+// http://www.jacklmoore.com/autosize
+
+
 export default class extends Controller {
 
   connect() {
@@ -22,6 +25,12 @@ export default class extends Controller {
   disconnect() {
 
     autosize.destroy(this.element);
+
+  }
+
+  update() {
+
+    autosize.update(this.element);
 
   }
 
