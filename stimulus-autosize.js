@@ -8,7 +8,7 @@
 
 import autosize from "autosize";
 
-import { Controller } from "stimulus";
+import { Controller } from "@hotwired/stimulus";
 
 
 // http://www.jacklmoore.com/autosize
